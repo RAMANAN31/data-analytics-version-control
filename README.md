@@ -2,13 +2,9 @@ Data Analytics Version Control – BMW Sales Data Cleaning Project
 Course Information
 
 Course Code: CSE3505
-
 Course Name: Fundamentals of Data Analytics (FDA)
-
 Register Number: 22MIA1150
-
 Student Name: Ramanan G
-
 Institution: VIT Chennai
 
 Project Overview
@@ -20,11 +16,11 @@ The project highlights how version control enables traceability, collaboration, 
 
 Objectives
 
-To understand and implement Git version control in a data analytics project.
+To understand and implement Git version control in a data analytics project
 
-To perform data cleaning using Python (Pandas).
+To perform data cleaning using Python (Pandas)
 
-To maintain a reproducible and organized workflow using GitHub.
+To maintain a reproducible and organized workflow using GitHub
 
 Data Cleaning Script
 
@@ -100,7 +96,7 @@ Created a new GitHub repository with the same name
 
 Linked it to the local repository and pushed files:
 
-git remote add origin https://github.com/<username>/data-analytics-version-control.git
+git remote add origin https://github.com/RAMANAN31/data-analytics-version-control.git
 git branch -M main
 git push -u origin main
 
@@ -115,5 +111,11 @@ data-analytics-version-control/
 
 Reflection Summary
 
-Version control significantly enhanced this project by ensuring organization, collaboration, and traceability. Git’s commit history maintained a detailed record of code evolution, while GitHub served as a reliable backup and collaboration platform.
+Version control significantly enhanced this project by ensuring organization, collaboration, and traceability.
+Git’s commit history maintained a detailed record of code evolution, while GitHub served as a reliable backup and collaboration platform.
+
 Overall, the integration of version control made the workflow structured, reproducible, and professional.
+
+GitHub Repository
+
+https://github.com/RAMANAN31/data-analytics-version-control
