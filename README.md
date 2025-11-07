@@ -101,13 +101,8 @@ git branch -M main
 git push -u origin main
 
 Repository Structure
-data-analytics-version-control/
-│
-├── BMW sales data (2010-2024) (1).csv
-├── cleaned_bmw_sales.csv
-├── data_cleaning.py
-├── README.md
-└── Reflection_Version_Control_Ramanan_CSE3505.pdf
+<img width="476" height="175" alt="image" src="https://github.com/user-attachments/assets/b013fe83-af96-44a2-8d7a-886d711c6785" />
+
 
 Reflection Summary
 
